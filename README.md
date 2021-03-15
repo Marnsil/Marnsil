@@ -1,10 +1,10 @@
-- Hi, I’m Marcos Silva 👋
+ Hi, I’m Marcos Silva 👋
 
-                                                   Welcome to my repository!
+ Welcome to my repository !
                   
 - I am a Mechanical Engineer 
-- I’m interested in science and technology 👀 
-- I’m currently learning Kotlin on Digital Innovation One / Everis Bootcamp.🌱 
+- Interested in science and technology 👀 
+- Currently learning Kotlin on Digital Innovation One / Everis Bootcamp.🌱 
 
 
 
