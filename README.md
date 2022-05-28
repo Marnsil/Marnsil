@@ -4,7 +4,7 @@
                   
 - I have a bachelor's degree in Mechanical Engineer and I'm studying Computer Science. 
 - Interested in science and technology  
-- Currently learning Kotlin and Java on Digital Innovation One Bootcamps.
+
 
 
 
